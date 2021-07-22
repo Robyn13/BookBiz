@@ -42,6 +42,11 @@ namespace BookBizTest
         }
 
         [Test]
+        public void CanUpdateData()
+        {
+        }
+
+        [Test]
         public void LazyLoadingCausesMultipleQueries()
         {
         }
