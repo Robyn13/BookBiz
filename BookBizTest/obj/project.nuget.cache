@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6x0Jx89FBfmnBHRfmwkv6aztPz0STUn+WFOyCXQEX6zFScJSDrERDXnOegNLWovZqPfZhg7b+LWqlRoy9pW0A==",
+  "success": true,
+  "projectFilePath": "C:\\devl\\BookBiz _Example\\BookBizTest\\BookBizTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robyn\\.nuget\\packages\\common.logging\\3.2.0\\common.logging.3.2.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\common.logging.core\\3.2.0\\common.logging.core.3.2.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\highway.data\\6.0.6\\highway.data.6.0.6.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\highway.data.entityframework\\6.0.6\\highway.data.entityframework.6.0.6.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\highway.pavement\\0.3.0\\highway.pavement.0.3.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\newtonsoft.json\\6.0.8\\newtonsoft.json.6.0.8.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\robyn\\.nuget\\packages\\refactorthis.graphdiff\\2.0.1\\refactorthis.graphdiff.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

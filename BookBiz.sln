@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookBiz", "BookBiz\BookBiz.csproj", "{F7454CDA-BE2B-4004-85DA-BA6AB38E336C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookBizTest", "BookBizTest\BookBizTest.csproj", "{B8BF7358-586D-4D34-A868-D221A8A436E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7454CDA-BE2B-4004-85DA-BA6AB38E336C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7454CDA-BE2B-4004-85DA-BA6AB38E336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7454CDA-BE2B-4004-85DA-BA6AB38E336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7454CDA-BE2B-4004-85DA-BA6AB38E336C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BF7358-586D-4D34-A868-D221A8A436E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BF7358-586D-4D34-A868-D221A8A436E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BF7358-586D-4D34-A868-D221A8A436E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BF7358-586D-4D34-A868-D221A8A436E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3041DD12-7715-4302-BBE4-16C78268E90A}
+	EndGlobalSection
+EndGlobal

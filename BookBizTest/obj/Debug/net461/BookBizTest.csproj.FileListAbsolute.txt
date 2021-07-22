@@ -1,0 +1,60 @@
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\NUnit3.TestAdapter.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\NUnit3.TestAdapter.pdb
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\nunit.engine.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\nunit.engine.api.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBizTest.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBizTest.pdb
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\nunit.framework.dll
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.csproj.AssemblyReference.cache
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.AssemblyInfoInputs.cache
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.AssemblyInfo.cs
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.csproj.CoreCompileInputs.cache
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.csproj.CopyComplete
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.dll
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.pdb
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\EntityFramework.SqlServer.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\EntityFramework.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBiz.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBiz.pdb
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBiz.dll.config
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\BookBizTest.dll.config
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Common.Logging.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Common.Logging.Core.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Microsoft.Practices.ServiceLocation.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Highway.Data.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Highway.Data.EntityFramework.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Highway.Pavement.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\Newtonsoft.Json.dll
+C:\devl\BookBiz\BookBizTest\bin\Debug\net461\RefactorThis.GraphDiff.dll
+C:\devl\BookBiz\BookBizTest\obj\Debug\net461\BookBizTest.dll.config
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\NUnit3.TestAdapter.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\NUnit3.TestAdapter.pdb
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\nunit.engine.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\nunit.engine.api.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBizTest.dll.config
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBizTest.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBizTest.pdb
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Common.Logging.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Common.Logging.Core.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Microsoft.Practices.ServiceLocation.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\EntityFramework.SqlServer.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\EntityFramework.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Highway.Data.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Highway.Data.EntityFramework.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Highway.Pavement.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\Newtonsoft.Json.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\nunit.framework.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\RefactorThis.GraphDiff.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBiz.dll
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBiz.pdb
+C:\devl\BookBiz _Example\BookBizTest\bin\Debug\net461\BookBiz.dll.config
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.csproj.AssemblyReference.cache
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.dll.config
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.AssemblyInfoInputs.cache
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.AssemblyInfo.cs
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.csproj.CoreCompileInputs.cache
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.csproj.CopyComplete
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.dll
+C:\devl\BookBiz _Example\BookBizTest\obj\Debug\net461\BookBizTest.pdb

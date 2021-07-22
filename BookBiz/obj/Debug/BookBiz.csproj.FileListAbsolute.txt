@@ -1,0 +1,56 @@
+C:\devl\BookBiz\BookBiz\obj\Debug\BookBiz.csproj.AssemblyReference.cache
+C:\devl\BookBiz\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+C:\devl\BookBiz\BookBiz\bin\Debug\BookBiz.dll.config
+C:\devl\BookBiz\BookBiz\bin\Debug\BookBiz.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\BookBiz.pdb
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.Core.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\EntityFramework.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\EntityFramework.SqlServer.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Highway.Data.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Highway.Data.EntityFramework.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Highway.Pavement.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Newtonsoft.Json.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\RefactorThis.GraphDiff.dll
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.pdb
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.Core.pdb
+C:\devl\BookBiz\BookBiz\bin\Debug\Common.Logging.Core.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\EntityFramework.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\EntityFramework.SqlServer.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\devl\BookBiz\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\Newtonsoft.Json.xml
+C:\devl\BookBiz\BookBiz\bin\Debug\RefactorThis.GraphDiff.pdb
+C:\devl\BookBiz\BookBiz\obj\Debug\BookBiz.csproj.CopyComplete
+C:\devl\BookBiz\BookBiz\obj\Debug\BookBiz.dll
+C:\devl\BookBiz\BookBiz\obj\Debug\BookBiz.pdb
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\BookBiz.dll.config
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\BookBiz.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\BookBiz.pdb
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.Core.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\EntityFramework.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\EntityFramework.SqlServer.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Highway.Data.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Highway.Data.EntityFramework.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Highway.Pavement.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Newtonsoft.Json.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\RefactorThis.GraphDiff.dll
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.pdb
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.Core.pdb
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Common.Logging.Core.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\EntityFramework.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\EntityFramework.SqlServer.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\Newtonsoft.Json.xml
+C:\devl\BookBiz _Example\BookBiz\bin\Debug\RefactorThis.GraphDiff.pdb
+C:\devl\BookBiz _Example\BookBiz\obj\Debug\BookBiz.csproj.AssemblyReference.cache
+C:\devl\BookBiz _Example\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+C:\devl\BookBiz _Example\BookBiz\obj\Debug\BookBiz.csproj.CopyComplete
+C:\devl\BookBiz _Example\BookBiz\obj\Debug\BookBiz.dll
+C:\devl\BookBiz _Example\BookBiz\obj\Debug\BookBiz.pdb

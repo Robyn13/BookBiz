@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\devl\\BookBiz _Example\\BookBizTest\\BookBizTest.csproj": {}
+  },
+  "projects": {
+    "C:\\devl\\BookBiz _Example\\BookBizTest\\BookBizTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\devl\\BookBiz _Example\\BookBizTest\\BookBizTest.csproj",
+        "projectName": "BookBizTest",
+        "projectPath": "C:\\devl\\BookBiz _Example\\BookBizTest\\BookBizTest.csproj",
+        "packagesPath": "C:\\Users\\robyn\\.nuget\\packages\\",
+        "outputPath": "C:\\devl\\BookBiz _Example\\BookBizTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\robyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\devl\\BookBiz _Example\\BookBiz\\BookBiz.csproj": {
+                "projectPath": "C:\\devl\\BookBiz _Example\\BookBiz\\BookBiz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Highway.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\devl\\BookBiz _Example\\BookBiz\\BookBiz.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\devl\\BookBiz _Example\\BookBiz\\BookBiz.csproj",
+        "projectName": "BookBiz",
+        "projectPath": "C:\\devl\\BookBiz _Example\\BookBiz\\BookBiz.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
