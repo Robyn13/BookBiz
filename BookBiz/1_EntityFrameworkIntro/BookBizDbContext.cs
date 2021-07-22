@@ -14,6 +14,30 @@ namespace BookBiz._1_EntityFrameworkIntro
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+
+            modelBuilder.Configurations.Add(new StoreEntityConfig());
+            modelBuilder.Configurations.Add(new AddressEntityConfig());
+            modelBuilder.Configurations.Add(new AuthorEntityConfig());
+            modelBuilder.Configurations.Add(new BookEntityConfig());
+        }
+    }
+
+    public class AuthorEntityConfig : EntityTypeConfiguration<Author>
+    {
+    }
+
+    public class AddressEntityConfig : EntityTypeConfiguration<Address>
+    {
+    }
+
+    public class BookEntityConfig : EntityTypeConfiguration<Book>
+    {
+    }
+
+    public class StoreEntityConfig : EntityTypeConfiguration<Store>
+    {
+        public StoreEntityConfig()
+        {
         }
     }
 }
