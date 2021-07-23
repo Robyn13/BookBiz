@@ -49,6 +49,17 @@
     <Compile Include="1_EntityFrameworkIntro\Entities\Address.cs" />
     <Compile Include="1_EntityFrameworkIntro\BookBizDbContext.cs" />
     <Compile Include="1_EntityFrameworkIntro\Entities\Store.cs" />
+    <Compile Include="2_CQRSIntro\BookBizDomain.cs" />
+    <Compile Include="2_CQRSIntro\BookBizEntityMapping.cs" />
+    <Compile Include="2_CQRSIntro\Commands\CreateStore.cs" />
+    <Compile Include="2_CQRSIntro\Commands\UpdateAuthorName.cs" />
+    <Compile Include="2_CQRSIntro\Entities\Address.cs" />
+    <Compile Include="2_CQRSIntro\Entities\Author.cs" />
+    <Compile Include="2_CQRSIntro\Entities\Book.cs" />
+    <Compile Include="2_CQRSIntro\Entities\Store.cs" />
+    <Compile Include="2_CQRSIntro\Queries\FindAuthorByName.cs" />
+    <Compile Include="2_CQRSIntro\Queries\FindStoreByName.cs" />
+    <Compile Include="2_CQRSIntro\Queries\GetStoresByState.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Common.Logging, Version=3.2.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
